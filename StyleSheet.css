@@ -10,6 +10,7 @@ nav {text-align: left;
 nav a { display: inline-block;
 padding: 5px;
 background: #0040FF;
+color: white;
 }
 button {background: #0040FF;
   border-radius: 6px;
